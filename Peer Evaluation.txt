@@ -1,37 +1,39 @@
 Name: Hunter Brafford
-Date:
-Project: 
-Peer's repository: 
+Date: 10/15/2019
+Project: Peer Evaluation
+Peer's repository: defcoding 
 
 
 
 What is something you learned by reviewing your peer's project?
-
- 
+This person really knows how to create a two dimensional space shooter!
+ I learned how much detail you can actually put into a game such as this one.
 
 What is something you saw in your peer's project that you would like to apply to your own programming projects?
-
- 
+I would like to include the background they had.
+I would like to include the ablility to move all different kinds of ways as they did, not just up or down, left or right.
 
 What suggestions would you have for your peer to improve his/her code?
-
+I would suggest a "YOU WIN!" message after they reach a certain amount of points, or clear a certain amount of enemies.
  
-
 What could have been clearer or better commented?
-
- 
+There was no definite way to win, just more enemies appearing.
+So, I think that a goal to the game, to win besides, just score a bunch of points could have been better communicated.
 
 Was there anything in the code that was confusing to you? If so, what?
-
- 
+Well, the only thing that was confusing was the fact that when one enemy dies, more appear.
+I think that to make it less confusing, they could have done one simple thing.
+Let the person playing the game shoot all the aliens, before more appear, even if more appear the next time. 
 
 Does the repository contain an appropriate LICENSE?
-
+Yes, it does.
  
 
 What is something he/she could add to the README.md to make it more descriptive?
-
- 
+They did describe everything in great detail. 
+I think they left nothing out of their description, becuase I could not have described it better mesef in this case.
 
 Pay a compliment to your peer based on the quality of his/her code.
-
+Everything in the gane was really cool! The background fit, the spaceship was easy to move around.
+The enemies moved for greater difficulty.
+It was a really well made simple two dimensional space shooter all around. 
